@@ -2,7 +2,7 @@
 
 A PyTorch implementation of Bayesian DeepLOB with uncertainty estimation through dropout layers.
 
-### Overvies
+### Overview
 This repository provides a Bayesian extension of the DeepLOB model, incorporating dropout-based uncertainty estimation. It is designed to predict mid-prices in limit order books using the FI-2010 dataset.
 
 ### References
