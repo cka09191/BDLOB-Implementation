@@ -18,6 +18,5 @@ This repository provides a Bayesian extension of the DeepLOB model, incorporatin
 
 ---
 ### TODO:
-- [ ] Use Docutils for attribution
-- [ ] Refactor code
+- [x] Use Docutils for attribution
 - [ ] Add project report
