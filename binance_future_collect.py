@@ -109,7 +109,7 @@ class FileUploader:
 async def websocket_client(message_processor, buffer_manager):
     uri = "wss://fstream.binance.com/ws"
     streams = [
-        "btcusdc@depth20@100ms"
+        f"{SYMBOL}@depth20@100ms"
     ]
     while True:
         async with websockets.connect(uri, ping_interval=60, ping_timeout=50) as websocket:
