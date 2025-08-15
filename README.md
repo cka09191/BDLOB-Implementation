@@ -11,7 +11,7 @@ This repository provides a Bayesian extension of the DeepLOB model, incorporatin
 **Dataset:** [FI-2010 Dataset](https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649)  
 **Preprocessed Version:** [Google Drive Link](https://drive.google.com/drive/folders/1Xen3aRid9ZZhFqJRgEMyETNazk02cNmv?usp=sharing)
 
-[2] Zhang, Z., Zohren, S., & Roberts, S. (2018). DeepLOB: Deep convolutional neural networks for limit order book forecasting. *IEEE Transactions on Signal Processing*, 67(11), 3001-3012. https://doi.org/10.1109/TSP.2019.2902160  
+[2] Zhang, Z., Zohren, S., & Roberts, S. (2018). DeepLOB: Deep convolutional neural networks for limit order book forecasting. *IEEE Transactions on Signal Processing*, 67(11), 3001-3012. https://doi.org/10.48550/arXiv.1808.03668
 **Original Implementation:** [DeepLOB GitHub Repository](https://github.com/zcakhaa/DeepLOB-Deep-Convolutional-Neural-Networks-for-Limit-Order-Books)
 
 [3] Zhang, Z., Zohren, S., & Roberts, S. (2018). BDLOB: Bayesian deep convolutional neural networks for limit order books. *Third Workshop on Bayesian Deep Learning (NeurIPS 2018)*, Montreal, Canada. https://arxiv.org/abs/1811.10041
